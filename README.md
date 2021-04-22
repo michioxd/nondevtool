@@ -1,0 +1,2 @@
+# nondevtool
+Anti-devtools
