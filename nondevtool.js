@@ -15,7 +15,6 @@
                 document.head.remove();
                 document.body.remove();
                 console.clear();
-                document.write("<center><h1>Lỗi không xác định :((</h1><hr><p>Bạn hãy refresh lại page nhé!</p></center>");
             });
         }
     };
@@ -29,7 +28,6 @@ document.onkeydown = function(e) {
         document.head.remove();
         document.body.remove();
         console.clear();
-        document.write("<center><h1>Lỗi không xác định :((</h1><hr><p>Bạn hãy refresh lại page nhé!</p></center>");
         return false;
     }
 }
