@@ -1,6 +1,8 @@
 # nondevtool
 Anti-devtools
 
+## Demo
+See the demo <a href="https://nondevtool.michio.ga">here</a>
 ## How to use
 Just include this file JS to your page and try open devtool ehehe :))
 
