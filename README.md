@@ -1,5 +1,6 @@
 # nondevtool
-Anti-devtools
+nondevtool aka Anti-devtools
+Destroy HTML document (page) while open devtools (F12 or ...)
 
 ## Demo
 See the demo <a target="_blank" href="https://nondevtool.michio.ga">here</a>
