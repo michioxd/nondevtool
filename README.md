@@ -3,6 +3,8 @@ nondevtool aka Anti-devtools
 
 Destroy HTML document (page) while open devtools (F12 or ...)
 
+<img src="https://raw.githubusercontent.com/michioxd/nondevtool/main/banner.png">
+
 ## Demo
 See the demo <a target="_blank" href="https://nondevtool.michio.ga">here</a>
 ## How to use
