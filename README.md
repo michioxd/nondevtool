@@ -24,7 +24,7 @@ Just include this file JS to your page and try open devtool ehehe :))
 ```
 
 ## Minified Version
-only 900 bytes :33
+only 800 bytes :33
 ```html
 <script src="./nondevtool.min.js"></script>
 ```
