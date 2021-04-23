@@ -13,6 +13,8 @@ See the demo <a target="_blank" href="https://nondevtool.michio.ga">here</a>
 ## How to use
 Just include nondevtool.js to your page and try open devtool ehehe :))
 
+Tested on Chrome 90 and Microsoft Edge 90
+
 ## Example
 ```html
 <!DOCTYPE html>
