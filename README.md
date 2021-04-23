@@ -21,6 +21,12 @@ Just include this file JS to your page and try open devtool ehehe :))
 </html>
 ```
 
+## Minified Version
+only 900kb :33
+```html
+<script src="./nondevtool.min.js"></script>
+```
+
 ## nondevtool obfuscated ver
 Hmm... you don't want anyone can see this code in your page?
 ```html
