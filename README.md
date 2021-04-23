@@ -1,5 +1,6 @@
 # nondevtool
 nondevtool aka Anti-devtools
+
 Destroy HTML document (page) while open devtools (F12 or ...)
 
 ## Demo
