@@ -47,3 +47,5 @@ Hmm... you don't want anyone can see this code in your page?
 obfuscated with <a href="https://github.com/javascript-obfuscator/javascript-obfuscator" target="_blank">JavaScript Obfuscator Tool</a>
 ## Credits
 michio.xd (michio nakano)
+
+Mết in Việt Nam aha
