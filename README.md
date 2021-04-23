@@ -7,6 +7,9 @@ Destroy HTML document (page) while open devtools (F12 or ...)
 
 ## Demo
 See the demo <a target="_blank" href="https://nondevtool.michio.ga">here</a>
+
+<img src="https://raw.githubusercontent.com/michioxd/nondevtool/main/preview.gif">
+
 ## How to use
 Just include nondevtool.js to your page and try open devtool ehehe :))
 
