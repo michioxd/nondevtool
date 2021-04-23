@@ -48,4 +48,6 @@ obfuscated with <a href="https://github.com/javascript-obfuscator/javascript-obf
 ## Credits
 michio.xd (michio nakano)
 
+*project này do mấy bro kia soi web của michio nhìu quá nên michio làm lun hihi~
+
 Mết in Việt Nam aha
